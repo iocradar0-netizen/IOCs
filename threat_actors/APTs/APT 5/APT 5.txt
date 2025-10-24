@@ -1,5 +1,4 @@
 
-# Reference: https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2013/04/20082912/C5_APT_SKHack.pdf
 
 116.127.121.41:8080
 alyac.org
@@ -43,3 +42,4 @@ us.duamlive.com
 vn.edsplan.com
 wf.edsplan.com
 expre.dyndns.tv
+
