@@ -1,0 +1,5 @@
+# GOLD BURLAP
+
+**also known as:**
+- CYBORGSPIDER
+- CYBORG SPIDER

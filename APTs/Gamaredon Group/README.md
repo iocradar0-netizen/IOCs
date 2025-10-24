@@ -1,0 +1,31 @@
+# Gamaredon Group
+
+**also known as:**
+- Star Blizzard
+- Callisto
+- GOSSAMER BEAR
+- Aqua Blizzard
+- PRIMITIVE BEAR
+- IRON TILDEN
+- Blue Callisto
+- Winterflounder
+- BlueCharlie
+- UNC530
+- ACTINIUM
+- IRON FRONTIER
+- Trident Ursa
+- Gamaredon Group
+- Callisto Group
+- UAC-0010
+- TA446
+- SEABORGIUM
+- DEV-0157
+- COLDRIVER
+- Shuckworm
+- G0047
+- TAG-53
+- BlueAlpha
+- Armageddon
+- SectorC08
+- UNC4057
+- Blue Otso

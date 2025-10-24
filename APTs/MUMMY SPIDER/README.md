@@ -1,0 +1,6 @@
+# MUMMY SPIDER
+
+**also known as:**
+- GOLDCRESTWOOD
+- GOLD CRESTWOOD
+- TA542

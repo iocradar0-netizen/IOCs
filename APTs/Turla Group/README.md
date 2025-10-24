@@ -1,0 +1,38 @@
+# Turla Group
+
+**also known as:**
+- SIG2
+- Taffeta Typhoon
+- Wraith
+- SIG15
+- Belugasturgeon
+- SUMMIT
+- JerseyMikes
+- Shell Crew
+- Turla
+- UNC4210
+- SIG23
+- Venomous Bear
+- Popeye
+- Iron Hunter
+- Turbine Panda
+- WebMasters
+- Waterbug
+- Bronze Express
+- CTG-8875
+- Krypton
+- Pensive Ursa
+- TAG-0530
+- APT 26
+- PinkPanther
+- G0010
+- Blue Python
+- ITG12
+- KungFu Kittens
+- Group 88
+- ATK 13
+- Group 13
+- Secret Blizzard
+- Black Vine
+- Pacifier APT
+- Makersmark
