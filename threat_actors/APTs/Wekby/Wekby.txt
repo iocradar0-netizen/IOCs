@@ -1,9 +1,5 @@
  See the file 'LICENSE' for copying permission
 
-# Reference: https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html (# APT18's campaign)
-# Reference: https://github.com/fireeye/iocs/blob/master/APT18/0ae061d7-c624-4a84-8adf-00281b97797b.ioc
-# Reference: https://www.virustotal.com/gui/ip-address/137.175.4.132/relations
-# Reference: https://www.virustotal.com/gui/ip-address/223.25.233.248/relations
 
 http://137.175.4.132
 http://223.25.233.248
@@ -22,3 +18,4 @@ logo.mjw.bz
 suck.er1620.com
 test.3bz.org
 zip.redirectme.net
+
